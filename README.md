@@ -11,8 +11,6 @@
 
 ## 🧰 Стек технологий
 
-## 🧰 Стек технологий
-
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
